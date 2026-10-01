@@ -19,3 +19,7 @@ Proje, kullanıcı dostu bir web paneli üzerinden test edilebilir şekilde Grad
 * Veri artırma (data augmentation) tekniklerinin eklenmesi.
 * MobileNetV2 son katmanlarında fine-tuning uygulanması.
 * Modelin TensorFlow Lite formatına dönüştürülerek mobil uygulamaya taşınması.
+
+## Detaylı Proje Raporu
+Algoritma karşılaştırmaları, karmaşıklık matrisleri ve tüm performans tablolarının yer aldığı akademik raporu incelemek için: 
+👉 [Proje Raporunu Görüntüle (PDF)](./Deep_Learning_Report.pdf)
